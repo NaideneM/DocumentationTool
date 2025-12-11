@@ -1,0 +1,3 @@
+[submodule "h5p-documentation-tool"]
+	path = h5p-documentation-tool
+	url = https://github.com/h5p/h5p-documentation-tool.git
